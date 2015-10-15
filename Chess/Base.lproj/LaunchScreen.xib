@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6254" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6254"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uBc-cA-snM">
+                    <rect key="frame" x="0.0" y="0.0" width="480" height="64"/>
+                    <color key="backgroundColor" red="0.5607843137254902" green="0.34509803921568627" blue="0.13333333333333333" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="64" id="mL3-fU-lJT"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mFJ-w4-EX9">
+                    <rect key="frame" x="0.0" y="431" width="480" height="49"/>
+                    <color key="backgroundColor" red="0.56078431370000004" green="0.34509803919999998" blue="0.1333333333" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="49" id="xNK-Qh-NbX"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.8980392157" green="0.80784313730000001" blue="0.71764705880000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="mFJ-w4-EX9" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="1CB-h3-SMK"/>
+                <constraint firstAttribute="trailing" secondItem="mFJ-w4-EX9" secondAttribute="trailing" id="8DA-8W-Hg9"/>
+                <constraint firstItem="uBc-cA-snM" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="9MQ-cu-lBK"/>
+                <constraint firstAttribute="trailing" secondItem="uBc-cA-snM" secondAttribute="trailing" id="Nrw-bj-mcW"/>
+                <constraint firstAttribute="bottom" secondItem="mFJ-w4-EX9" secondAttribute="bottom" id="c9g-rE-0Gb"/>
+                <constraint firstItem="uBc-cA-snM" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="his-gW-p6d"/>
+            </constraints>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="lightContent"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+</document>

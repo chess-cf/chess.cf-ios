@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Chess
+
+  Created by Alex Studnicka on 24/12/14.
+  Copyright (c) 2014 Alex Studnička. All rights reserved.
+*/
+
+"CFBundleName" = "Chess";

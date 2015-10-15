@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  Chess
+
+  Created by Alex Studnicka on 24/12/14.
+  Copyright (c) 2014 Alex Studnička. All rights reserved.
+*/
+
+"NO_GAMES"				= "No games";
+"LEAVE_GAME"			= "Leave";
+"ERROR"					= "Error";
+"DISMISS"				= "Dismiss";
+"USER"					= "User";
+"COMPUTER"				= "Computer";
+"USERNAME_OR_EMAIL"		= "Username or E-mail";
+"FRIEND_REQUESTS"		= "Friend Requests";
+"NO_FRIENDS"			= "No Friends";
+"FRIENDS"				= "Friends";
+"UNFRIEND"				= "Unfriend";
+"NOT_FOUND"				= "Not found";
+
+// Errors
+"UNAUTHORIZED"			= "Unauthorized";
+"GAME_NOT_FOUND"		= "Game not found";
+"OPPONENT_NOT_SELECTED"	= "Opponent not selected";
+"WRONG_LOGIN"			= "Wrong username or password";

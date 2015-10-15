@@ -1,0 +1,81 @@
+/* Class = "IBUITabBarItem"; title = "Settings"; ObjectID = "1LV-HI-8hP"; */
+"1LV-HI-8hP.title" = "Nastavení";
+
+/* Class = "IBUITabBarItem"; title = "Friends"; ObjectID = "1zz-0f-64t"; */
+"1zz-0f-64t.title" = "Přátelé";
+
+/* Class = "IBUILabel"; text = "Friend:"; ObjectID = "ARa-6W-LCx"; */
+"ARa-6W-LCx.text" = "Přítel:";
+
+/* Class = "IBUISegmentedControl"; Awv-fr-hJY.segmentTitles[0] = "White"; ObjectID = "Awv-fr-hJY"; */
+"Awv-fr-hJY.segmentTitles[0]" = "Bílý";
+
+/* Class = "IBUISegmentedControl"; Awv-fr-hJY.segmentTitles[1] = "Random"; ObjectID = "Awv-fr-hJY"; */
+"Awv-fr-hJY.segmentTitles[1]" = "Náhodně";
+
+/* Class = "IBUISegmentedControl"; Awv-fr-hJY.segmentTitles[2] = "Black"; ObjectID = "Awv-fr-hJY"; */
+"Awv-fr-hJY.segmentTitles[2]" = "Černý";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "Ird-kj-xO6"; */
+"Ird-kj-xO6.placeholder" = "Heslo";
+
+/* Class = "IBUIButton"; normalTitle = "Don't have an account yet?"; ObjectID = "NaE-xH-Gfq"; */
+"NaE-xH-Gfq.normalTitle" = "Ještě nemáte účet?";
+
+/* Class = "IBUINavigationItem"; title = "My Games"; ObjectID = "P3B-or-vDg"; */
+"P3B-or-vDg.title" = "Mé hry";
+
+/* Class = "IBUINavigationItem"; title = "Login"; ObjectID = "USl-my-lUl"; */
+"USl-my-lUl.title" = "Přihlášení";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "UeX-EF-zUz"; */
+"UeX-EF-zUz.title" = "Nastavení";
+
+/* Class = "IBUITabBarItem"; title = "Games"; ObjectID = "V5A-rn-xrh"; */
+"V5A-rn-xrh.title" = "Hry";
+
+/* Class = "IBUIBarButtonItem"; title = "Login"; ObjectID = "Y7e-1o-Mcu"; */
+"Y7e-1o-Mcu.title" = "Přihlásit";
+
+/* Class = "IBUINavigationItem"; title = "Friends"; ObjectID = "Ztr-iz-lON"; */
+"Ztr-iz-lON.title" = "Přátelé";
+
+/* Class = "IBUILabel"; text = "Against:"; ObjectID = "bz0-Jn-Gma"; */
+"bz0-Jn-Gma.text" = "Proti:";
+
+/* Class = "IBUILabel"; text = "Log out"; ObjectID = "cTo-PJ-WdD"; */
+"cTo-PJ-WdD.text" = "Odhlásit se";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "cU2-8u-cdo"; */
+"cU2-8u-cdo.placeholder" = "Uživatelské jméno";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "e97-ci-ciF"; */
+"e97-ci-ciF.title" = "Zpět";
+
+/* Class = "IBUISegmentedControl"; gGb-jW-PTi.segmentTitles[0] = "Computer"; ObjectID = "gGb-jW-PTi"; */
+"gGb-jW-PTi.segmentTitles[0]" = "Počítač";
+
+/* Class = "IBUISegmentedControl"; gGb-jW-PTi.segmentTitles[1] = "Friend"; ObjectID = "gGb-jW-PTi"; */
+"gGb-jW-PTi.segmentTitles[1]" = "Přítel";
+
+/* Class = "IBUISegmentedControl"; gGb-jW-PTi.segmentTitles[2] = "Share link"; ObjectID = "gGb-jW-PTi"; */
+"gGb-jW-PTi.segmentTitles[2]" = "Sdílet odkaz";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "ghX-vx-e5A"; */
+"ghX-vx-e5A.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "New Game"; ObjectID = "isg-TO-pyO"; */
+"isg-TO-pyO.title" = "Nová hra";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "ksd-fR-Ruw"; */
+"ksd-fR-Ruw.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "oqh-pO-Tr0"; */
+"oqh-pO-Tr0.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Your color:"; ObjectID = "poi-UR-IUo"; */
+"poi-UR-IUo.text" = "Vaše barva:";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot password?"; ObjectID = "q0b-MS-z3t"; */
+"q0b-MS-z3t.normalTitle" = "Zapoměli jste heslo?";
+

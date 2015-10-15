@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  Chess
+
+  Created by Alex Studnicka on 24/12/14.
+  Copyright (c) 2014 Alex Studnička. All rights reserved.
+*/
+
+"NO_GAMES"				= "Žádné hry";
+"LEAVE_GAME"			= "Opustit";
+"ERROR"					= "Chyba";
+"DISMISS"				= "Zavřít";
+"USER"					= "Uživatel";
+"COMPUTER"				= "Počítač";
+"USERNAME_OR_EMAIL"		= "Jméno nebo e-mail";
+"FRIEND_REQUESTS"		= "Žádosti o přátelství";
+"NO_FRIENDS"			= "Žádní přátelé";
+"FRIENDS"				= "Přátelé";
+"UNFRIEND"				= "Odebrat";
+"NOT_FOUND"				= "Nenalezeno";
+
+// Errors
+"UNAUTHORIZED"			= "Neautorizováno";
+"GAME_NOT_FOUND"		= "Hra nenalezena";
+"OPPONENT_NOT_SELECTED"	= "Nebyl vybrán soupeř";
+"WRONG_LOGIN"			= "Špatné jméno nebo heslo";
